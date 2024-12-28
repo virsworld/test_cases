@@ -1,2 +1,0 @@
-# comment
-printf("hello world")
