@@ -1,0 +1,2 @@
+>>> Error: resistor name cannot be keyword \"all\"
+>>> 
